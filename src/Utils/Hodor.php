@@ -1,5 +1,5 @@
 <?php
-namespace Kossakov\TestPackOne\Models;
+namespace Kossakov\TestPackOne\Utils;
 
 class Hodor
 {
